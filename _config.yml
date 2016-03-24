@@ -1,4 +1,4 @@
-highlighter: pygments
+highlighter: rouge
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
@@ -12,7 +12,7 @@ author: Thomas Malkewitz
 
 # edit this section with your information
 # for a normal use at the base of the server change it to "/"
-baseurl: /
+baseurl: dotps1.github.io/Resume
 title: Thomas Malkewitz's Resume
 name: Thomas Malkewitz
 email: dotps1@outlook.com
