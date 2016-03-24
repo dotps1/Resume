@@ -1,0 +1,31 @@
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 4000
+safe: true
+url: http://dotps1.github.io
+author: Thomas Malkewitz
+
+# edit this section with your information
+# for a normal use at the base of the server change it to "/"
+baseurl: /
+title: Thomas Malkewitz's Resume
+name: Thomas Malkewitz
+email: dotps1@outlook.com
+email_full: mailto:Get-Alias@outlook.com
+website: dotps1.github.io
+website_full: http://dotps1.github.io
+github: dotps1
+twitter: dotps1
+#tel: +44 0000 000000
+#tel_full: tel:+440000000000
+#google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+#address: 44 Perth Street
+#postcode: EH3 5BL
+state: Michigan
+country: United States
+#google_analytics: UA-69300817-1
