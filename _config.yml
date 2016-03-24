@@ -5,14 +5,14 @@ rdiscount:
 permalink: /:title.html
 paginate: 5
 gems: [jekyll-paginate]
-port: 4000
+#port: 4000
 safe: true
 url: http://dotps1.github.io
 author: Thomas Malkewitz
 
 # edit this section with your information
 # for a normal use at the base of the server change it to "/"
-baseurl: dotps1.github.io/Resume
+baseurl: /
 title: Thomas Malkewitz's Resume
 name: Thomas Malkewitz
 email: dotps1@outlook.com
